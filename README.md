@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo Ramos de Paiva
 
-<!--
-**leonardo-informataemsaude/leonardo-informataemsaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biomédico** | **Tecnólogo em Informática em Saúde (em formação)** | **Desenvolvedor em construção**  
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e pela integração entre **saúde e inovação**.  
+Atualmente atuo na **saúde pública**, como Diretor da Farmácia Básica Municipal de Poço Fundo – MG, e busco aplicar minha experiência na área da saúde para desenvolver **soluções digitais** que tornem o cuidado mais eficiente, acessível e humano.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho foco principal no desenvolvimento de **softwares e bancos de dados** voltados à saúde, mas também interesse em soluções tecnológicas para outras áreas.  
+
+---
+
+## Tecnologias e Interesses
+- Python, Java, SQL, entre outras linguagens  
+- Desenvolvimento de sistemas  
+- Bancos de dados
+- Análise e visualização de dados  
+- Aplicações em saúde e tecnologia  
+
+---
+
+## Objetivos
+- Começar atuando como **desenvolvedor júnior** em uma empresa de tecnologia ou healthtech e continuar crescendo  
+- Criar projetos aplicados à **saúde, gestão e inovação**  
+- Aprimorar conhecimentos em **backend, banco de dados e APIs**
+
+---
+
+## Contato
+**Email:** leonardoramos.biomedico@gmail.com
+
+**LinkedIn:** www.linkedin.com/in/leonardo-ramos-b781b921b
